@@ -1,0 +1,11 @@
+{
+  "name": "genrank-ai-geo-platform",
+  "version": "1.0.0",
+  "description": "GenRank AI — AI-powered Generative Engine Optimization Platform",
+  "scripts": {
+    "dev": "npx serve . -p 3000",
+    "deploy": "vercel --prod"
+  },
+  "keywords": ["GEO", "AI-SEO", "generative-engine-optimization", "ai-search"],
+  "license": "MIT"
+}
